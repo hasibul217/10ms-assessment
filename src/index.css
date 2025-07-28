@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+@layer utilities {
+
+  /* Container */
+  .container {
+    max-width: 1300px;
+  }
+}
